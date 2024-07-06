@@ -24,6 +24,6 @@ C, Java, Python
 ## Web - Programming Language
 HTML5, CSS3, Javascript
 ## IDEs
-Intellij IDEA, Pycharm
+Intellij IDEA, Pycharm, CLion
 ## Editors
 Visual Studio Code
