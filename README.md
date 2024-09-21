@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm Andrea. I'm a 21 years old student and I'm currently enrolled in **Computer Science engineering at Politecnico di Milano**. I like to define myself as a multifaceted person, in fact, my interests spaces between humanistic and scientific disciplines, from philosophy and literature to physics and computer science.
+I'm Andrea. I'm a 22 years old student and I'm currently enrolled in **Computer Science engineering at Politecnico di Milano**. I like to define myself as a multifaceted person, in fact, my interests spaces between humanistic and scientific disciplines, from philosophy and literature to physics and computer science.
 
 ## General purpose programming language
 C, Java, Python
